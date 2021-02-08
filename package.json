@@ -1,8 +1,8 @@
 {
-  "name": "bael-cms-template",
-  "version": "1.0 dev",
-  "description": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js",
-  "author": "jake101 <hello@jake101.com>",
+  "name": "engen-laudium",
+  "version": "1.0.0",
+  "description": "Engen Laudium Blog and Shop",
+  "author": "Hasan K",
   "scripts": {
     "dev": "nuxt",
     "serve": "nuxt",
