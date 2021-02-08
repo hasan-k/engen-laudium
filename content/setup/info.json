@@ -1,25 +1,21 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "sitename": "Engen Laudium",
+  "sitedescription": "197 Jewel Street",
+  "siteicon": "/images/uploads/logo.png",
   "showmenu": true,
   "emailsignup": true,
-  "altlayout": false,
+  "altlayout": true,
   "menu": [
     {
-      "name": "jake101",
+      "name": "Contact",
       "position": "1",
-      "link": "https://www.jake101.com/"
+      "link": "+27123745242"
     },
     {
-      "name": "Nuxt.js",
+      "name": "Help",
       "position": "2",
-      "link": "https://www.nuxtjs.org/"
-    },
-    {
-      "name": "Netlify",
-      "position": "3",
-      "link": "https://www.netlify.com/"
+      "link": "www.twitter.com"
     }
-  ]
+  ],
+  "linkcolor": "#cc3333"
 }
