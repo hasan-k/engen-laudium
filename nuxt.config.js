@@ -34,7 +34,7 @@ module.exports = {
   /*
   ** Customize the progress bar color
   */
-  loading: { color: '#3B8070' },
+  loading: { color: '#3B8070', height: '5px' },
   modules: ['@nuxt/content', '@nuxtjs/pwa', '@nuxtjs/axios'],
   content: {
     fullTextSearchFields: ['title', 'description', 'category']
@@ -105,5 +105,3 @@ module.exports = {
     // }
   },
 }
-
-
