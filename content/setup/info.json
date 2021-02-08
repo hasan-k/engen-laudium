@@ -4,7 +4,7 @@
   "siteicon": "/images/uploads/logo.png",
   "showmenu": true,
   "emailsignup": true,
-  "altlayout": true,
+  "altlayout": false,
   "menu": [
     {
       "name": "Contact",
